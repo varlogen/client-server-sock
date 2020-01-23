@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "/home/pavel/spbu/sys_prog/z12/build",
+    "command": "c++ -Isrc/echo1/f6a2334@@echo1@exe -Isrc/echo1 -I../src/echo1 -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -MD -MQ 'src/echo1/f6a2334@@echo1@exe/server.cpp.o' -MF 'src/echo1/f6a2334@@echo1@exe/server.cpp.o.d' -o 'src/echo1/f6a2334@@echo1@exe/server.cpp.o' -c ../src/echo1/server.cpp",
+    "file": "../src/echo1/server.cpp",
+    "output": "src/echo1/f6a2334@@echo1@exe/server.cpp.o"
+  },
+  {
+    "directory": "/home/pavel/spbu/sys_prog/z12/build",
+    "command": "c++ -Isrc/echo1/f6a2334@@client@exe -Isrc/echo1 -I../src/echo1 -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -MD -MQ 'src/echo1/f6a2334@@client@exe/client.cpp.o' -MF 'src/echo1/f6a2334@@client@exe/client.cpp.o.d' -o 'src/echo1/f6a2334@@client@exe/client.cpp.o' -c ../src/echo1/client.cpp",
+    "file": "../src/echo1/client.cpp",
+    "output": "src/echo1/f6a2334@@client@exe/client.cpp.o"
+  }
+]
